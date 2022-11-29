@@ -1,4 +1,4 @@
-# CatPhotoApp
-Cat Photo App from freeCodeCamp
+# freeCodeCamp
+HTML projects learned from freeCodeCamp
 
-This is an amazing catphotoapp
+1. catPhotoApp
